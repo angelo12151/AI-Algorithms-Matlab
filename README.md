@@ -27,5 +27,4 @@ Il repository include script dimostrativi per i tre pilastri del Machine Learnin
 - **Linguaggio**: MATLAB.
 - **Competenze**: Algebra lineare applicata, ottimizzazione stocastica, calcolo differenziale.
 
----
-*Progetto sviluppato per coniugare il rigore matematico con l'efficienza algoritmica.*
+
